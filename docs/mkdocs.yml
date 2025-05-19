@@ -1,0 +1,8 @@
+site_name: 2025.1 T01 - QUALIDADE DE SOFTWARE / JEAN SUMMET
+
+theme:
+  name: material
+
+nav:
+- Home: index.md 
+- Goals Question Metrics - Fase definição: goalsQuestionMetrics.md

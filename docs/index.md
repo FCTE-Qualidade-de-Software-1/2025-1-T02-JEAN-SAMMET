@@ -39,6 +39,30 @@ A documentação aqui apresentada contempla desde a definição dos critérios d
         <br /><sub><b>Guilherme Storch</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/MilenaFRocha">
+        <img src="https://avatars.githubusercontent.com/u/104432227?v=4" width="100px" style="border-radius: 50%;" alt="Milena Fernandes"/>
+        <br /><sub><b>Milena Fernandes</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jlucasiqueira">
+        <img src="https://avatars.githubusercontent.com/u/143570377?v=4" width="100px" style="border-radius: 50%;" alt="Joao Lucas"/>
+        <br /><sub><b>Joao Lucas</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rafgpereira">
+        <img src="https://avatars.githubusercontent.com/u/81361524?v=4" width="100px" style="border-radius: 50%;" alt="Rafael Gomes"/>
+        <br /><sub><b>Rafael Gomes</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gxaite">
+        <img src="https://avatars.githubusercontent.com/u/111130521?v=4" width="100px" style="border-radius: 50%;" alt="Gabriel Scheidt"/>
+        <br /><sub><b>Gabriel Scheidt</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 

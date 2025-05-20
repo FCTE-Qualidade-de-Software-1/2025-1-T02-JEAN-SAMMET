@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/Logo_agro.png" 
+  <img src="docs/assets/Logo_agro.png" 
        width="50%" 
        style="background-color:white; border:2px solid green; border-radius:10px; padding:10px;" 
        alt="Logo AgroMart">
@@ -12,9 +12,9 @@
 
 ## Sobre o projeto
 
-Este repositório é dedicado à documentação de todos os artefatos criados pelo Jean Summet no primeiro semestre de 2025, na disciplina Qualidade de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
+Este repositório reúne a documentação dos artefatos desenvolvidos pelo grupo Jean Sammet, no primeiro semestre de 2025, na disciplina de Qualidade de Software, da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
 
-O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Celular Seguro, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à segurança e bloqueio de dispositivos móveis em casos de perda, roubo ou furto.
+O projeto tem como objetivo realizar uma análise abrangente da plataforma AgroMart, uma empresa que atua no fornecimento de produtos e soluções para o agronegócio. A AgroMart se destaca por oferecer uma ampla variedade de insumos agrícolas, equipamentos, peças e soluções tecnológicas voltadas para produtores rurais, empresas do setor e profissionais da agricultura e pecuária, sempre com foco na inovação, praticidade e eficiência.
 
 ## 🗃️ Documentação
 

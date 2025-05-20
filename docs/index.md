@@ -1,7 +1,10 @@
 # Qualidade de Software
 
 <p align="center">
-  <img src="assets/Logo_agro.png" width="50%" style="border:2px solid green; border-radius:10px;" alt="Logo AgroMart">
+  <img src="assets/Logo_agro.png" 
+       width="50%" 
+       style="background-color:white; border:2px solid green; border-radius:10px; padding:10px;" 
+       alt="Logo AgroMart">
 </p>
 
 <p align="center" style="font-size: 12px; font-style: italic;">
@@ -28,6 +31,12 @@ A documentação aqui apresentada contempla desde a definição dos critérios d
       <a href="https://github.com/gabriel-lima258">
         <img src="https://avatars.githubusercontent.com/u/116119327?v=4" width="100px" style="border-radius: 50%;" alt="Gabriel Lima"/>
         <br /><sub><b>Gabriel Lima</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/storch7">
+        <img src="https://avatars.githubusercontent.com/u/90935577?v=4" width="100px" style="border-radius: 50%;" alt="Guilherme Storch"/>
+        <br /><sub><b>Guilherme Storch</b></sub>
       </a>
     </td>
   </tr>

@@ -1,7 +1,9 @@
-site_name: 2025.1 T01 - QUALIDADE DE SOFTWARE / JEAN SUMMET
+docs_dir: docs
+site_name: JEAN SUMMET
+
 
 theme:
-  logo: assets/LogoCelularSeguro.png
+  logo: assets/Logo_agro.png
   font:
     text: Montserrat
   name: material
@@ -19,16 +21,16 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: amber
-      accent: amber
+      primary: lime
+      accent: lime
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: #2c2c7c
-      accent: #2c2c7c
+      primary: light green
+      accent: light green
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode

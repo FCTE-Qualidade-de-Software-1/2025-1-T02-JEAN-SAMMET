@@ -1,7 +1,40 @@
 site_name: 2025.1 T01 - QUALIDADE DE SOFTWARE / JEAN SUMMET
 
 theme:
+  logo: assets/LogoCelularSeguro.png
+  font:
+    text: Montserrat
   name: material
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.path
+    
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: amber
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: #2c2c7c
+      accent: #2c2c7c
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  icon:
+    repo: fontawesome/brands/git-alt
 
 nav:
 - Home: index.md 

@@ -45,24 +45,26 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 | ID | Pergunta                                                                                       |
 | -- | ---------------------------------------------------------------------------------------------- |
-| Q4 | Os usuários conseguem distinguir claramente os significados dos ícones e das cores utilizadas? |
+| Q4 | Os usuários conseguem distinguir claramente os significados dos ícones e das cores utilizadas?|
 | Q5 | As imagens e cores contribuem para a tomada de decisão durante a navegação?                    |
 | Q6 | Há confusão entre elementos visuais com significados distintos ou sobreposição de funções?     |
 
 
 ### Diagrama
 
+![Diagrama](./assets/diagrama2.png)
+
 ### Abstraction Sheet
 
-| **Object**                      | Interface gráfica (telas e ícones)                                                          |
-| ------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Purpose**                     | Entender se os elementos visuais são intuitivos                                             |
-| **Quality Focus**               | Interpretação correta de ícones e fluxos                                                    |
-| **Viewpoint**                   | Usuários com pouca experiência digital                                                      |
-| **Quality Focus**               | - Taxa de cliques corretos<br>- Solicitações de ajuda<br>- Tempo para concluir tarefa       |
-| **Variation Factors**           | - Design de ícones<br>- Consistência visual<br>- Padrões visuais adotados                   |
-| **Baseline Hypotheses**         | - Ícones familiares reduzem o tempo em 30%<br>- Falta de padrão visual aumenta erros em 60% |
-| **Impact of Variation Factors** | Elementos visuais consistentes aumentam a autonomia e reduzem erros                         |
+| **Elemento**                    | **Descrição**                                                                                                                                                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Object**                      | Interface gráfica (telas e ícones)                                                                                                                                                                      |
+| **Purpose**                     | Avaliar se os elementos visuais (ícones, cores, imagens) são compreendidos de forma intuitiva pelos usuários                                                                                            |
+| **Quality Focus**               | - Interpretação correta de ícones e cores<br>- Facilidade de navegação com base nos elementos visuais<br>- Taxa de cliques corretos<br>- Solicitações de ajuda<br>- Tempo para concluir tarefas visuais |
+| **Baseline Hypotheses**         | - Ícones familiares reduzem o tempo de navegação em até 30%<br>- Falta de padrão visual aumenta a taxa de erro em até 60%<br>- Elementos visuais bem contrastados melhoram a precisão em 25%            |
+| **Variation Factors**           | - Design e familiaridade dos ícones<br>- Consistência visual entre telas<br>- Uso de padrões visuais universais<br>- Paleta de cores e contraste                                                        |
+| **Impact of Variation Factors** | - Elementos consistentes aumentam a autonomia do usuário<br>- Redução nos erros de navegação<br>- Maior satisfação e sensação de controle                                                               |
+                     
 
 ---
 

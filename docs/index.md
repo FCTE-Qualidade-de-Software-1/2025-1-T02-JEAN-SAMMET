@@ -1,7 +1,7 @@
 # Qualidade de Software
 
 <p align="center">
-  <img src="assets/Logo_agro.png" 
+  <img src="assets/79022245.png" 
        width="50%" 
        style="background-color:white; border:2px solid green; border-radius:10px; padding:10px;" 
        alt="Logo AgroMart">

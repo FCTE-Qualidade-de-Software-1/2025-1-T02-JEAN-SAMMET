@@ -4,11 +4,11 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 | | |
 |---|---|
-|Analisa| as interações do usuário com a interface do sistema avaliado |
-|para o propósito de| identificar pontos fortes e fracos em termos de usabilidade |
-|com respeito a| critérios de usabilidade definidos pelas heurísticas de Nielsen |
-|de pojto de vista da| experiência do usuário durante a execução de tarefas no sistema |
-|No contexto de| uma disciplina de Qualidade de Software focada em avaliação e melhoria de sistemas. |
+|Analisa| a interface do sistema AGROMART |
+|para o propósito de| avaliar o uso da ferramenta |
+|com respeito a| critérios de usabilidade |
+|de ponto de vista da| experiência do usuário |
+|No contexto de| uma disciplna de Qualidade de Software. |
 
 # Questões objetivo de medição
 

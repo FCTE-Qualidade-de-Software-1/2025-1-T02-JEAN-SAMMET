@@ -12,34 +12,7 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 # Questões objetivo de medição
 
-##  Objetivo 1: Reduzir barreiras textuais na interface
-
-### Perguntas
-
-| ID | Pergunta                                                                                                                                                      |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Q1 | Os elementos visuais da interface (ícones, imagens e cores) são compreensíveis e suficientes para permitir a navegação sem a necessidade de leitura de texto? |
-| Q2 | As imagens utilizadas representam corretamente as ações ou informações que pretendem transmitir?                                                              |
-| Q3 | A disposição dos elementos na tela facilita a identificação de caminhos e ações sem depender da leitura textual?                                              |
-
-
-### Diagrama:
-
-### Abstraction Sheet
-
-| **Object**                      | Plataforma digital avaliada                                                                                                  |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Purpose**                     | Avaliar o impacto da quantidade de texto sobre a usabilidade                                                                 |
-| **Quality Focus**               | Clareza textual, sobrecarga cognitiva                                                                                        |
-| **Viewpoint**                   | Usuários com baixa alfabetização textual                                                                                     |
-| **Quality Focus**               | - Relação texto vs imagem<br>- Dificuldade relatada<br>- Frequência de erros                                                 |
-| **Variation Factors**           | - Quantidade de texto<br>- Uso de linguagem técnica<br>- Presença de ilustrações                                             |
-| **Baseline Hypotheses**         | - Interfaces com mais imagens têm 40% menos erros<br>- Interfaces com linguagem simplificada reduzem pedidos de ajuda em 50% |
-| **Impact of Variation Factors** | Mais elementos visuais e linguagem simples facilitam a compreensão e reduzem erros                                           |
-
----
-
-##  Objetivo 2: Verificar a compreensão dos elementos visuais
+##  Objetivo 1: Verificar a compreensão dos elementos visuais
 
 ### Perguntas
 
@@ -52,7 +25,7 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 ### Diagrama
 
-![Diagrama](./assets/diagrama2.png)
+![Diagrama](./assets/diagrama1.png)
 
 ### Abstraction Sheet
 
@@ -68,7 +41,7 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 ---
 
-##  Objetivo 3: Avaliar a clareza dos feedbacks do sistema
+##  Objetivo 2: Avaliar a clareza dos feedbacks do sistema
 
 ### Perguntas
 
@@ -78,8 +51,9 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 | Q8 | Os sinais do sistema são compreendidos? |
 | Q9 | Os feedbacks ajudam ajudam a navegabilidade? |
 
-
 ### Diagrama
+
+![Diagrama](./assets/diagrama2.png)
 
 ### Abstraction Sheet
 
@@ -92,34 +66,6 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 | **Baseline Hypotheses**         | - Mensagens claras reduzem a necessidade de suporte e diminuem erros de uso </br>- Feedback visual/sonoro imediato aumenta a confiança do usuário na execução da ação. </br>- A padronização do feedback reduz o tempo de aprendizado e aumenta a eficiência no uso.</br>- A ausência ou inconsistência nos feedbacks compromete a previsibilidade do sistema.</br>- Feedbacks padronizados promovem uma experiência mais fluida e consistente. |
 | **Variation Factors**           | - Uso de linguagem simples<br>- Tipos de feedback (visuais, sonoros)<br>- Tempo de navegação em um fluxo de telas|
 | **Impact of Variation Factors** | Feedback claro e imediato aumenta confiança e reduz abandono de tarefas e o tempo de realização de uma dada atividade. |
-
-
----
-
-##  Objetivo 4: Promover o uso autônomo e confiante da plataforma
-
-### Perguntas
-
-| ID  | Pergunta                                                                                                            |
-| --- | ------------------------------------------------------------------------------------------------------------------- |
-| Q10 | Os usuários conseguem concluir tarefas básicas (como cadastrar, buscar, acessar conteúdos) sem assistência externa? |
-| Q11 | Os usuários relatam confiança e conforto ao utilizar a plataforma após um breve período de uso?                     |
-| Q12 | Existem pontos da navegação que geram frustração, hesitação ou abandono da tarefa por parte do usuário?             |
-
-
-### Diagrama
-
-### Abstraction Sheet
-
-| **Object**                      | Plataforma durante tarefas completas                                                                        |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Purpose**                     | Avaliar se os usuários conseguem usar o sistema sozinhos                                                    |
-| **Quality Focus**               | Grau de autonomia e confiança do usuário                                                                    |
-| **Viewpoint**                   | Agricultores com baixa familiaridade digital                                                                |
-| **Quality Focus**               | - Tempo para completar tarefas<br>- Nível de satisfação<br>- Necessidade de auxílio externo                 |
-| **Variation Factors**           | - Complexidade da navegação<br>- Padrões de interação<br>- Personalização e acessibilidade                  |
-| **Baseline Hypotheses**         | - Interfaces simples aumentam em 60% o uso sem ajuda<br>- Interfaces complexas elevam a taxa de desistência |
-| **Impact of Variation Factors** | Menor complexidade e melhor acessibilidade aumentam a confiança e o sucesso na execução de tarefas          |
 
 ---
 

@@ -1,25 +1,27 @@
 # Qualidade de Software
 
 <p align="center">
-  <img src="assets/79022245.png" 
+  <img src="assets/jean-sammet.png" 
        width="50%" 
-       style="background-color:white; border:2px solid green; border-radius:10px; padding:10px;" 
+       style="background-color:blue; border:1px solid green; border-radius:10px; padding:0.5px;" 
        alt="Logo AgroMart">
 </p>
 
 <p align="center" style="font-size: 12px; font-style: italic;">
-  Fonte: <a href="https://www.agromart.com.br/" target="_blank">Agromart</a>
+  Figura 1: Jean E. Sammet 
 </p>
 
 ---
 
 ## Apresentação
 
-Este repositório reúne a documentação técnica desenvolvida pelo **Jean Summet** ao longo do primeiro semestre de 2025, no contexto da disciplina de **Qualidade de Software**, ministrada na Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (**FCTE–UnB**).
+Este repositório reúne a documentação técnica desenvolvida pela equipe **Jean Sammet** ao longo do primeiro semestre de 2025, no contexto da disciplina de **Qualidade de Software**, ministrada na Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (**FCTE–UnB**).
 
-O projeto tem como objeto de estudo o **AgroMart**, uma aplicação web voltada à intermediação da venda de produtos agrícolas. Ao longo do semestre, foram aplicadas técnicas e métricas de avaliação da qualidade com ênfase no atributo **confiabilidade**, buscando garantir que o sistema se comporte de forma previsível, segura e estável mesmo sob condições inesperadas.
+Jean Sammet (1928–2017) foi uma cientista da computação norte-americana, pioneira no desenvolvimento de linguagens de programação. Ela é especialmente conhecida por liderar o desenvolvimento da linguagem **COBOL** (Common Business-Oriented Language), uma das linguagens mais importantes para aplicações comerciais e corporativas.
 
-A documentação aqui apresentada contempla desde a definição dos critérios de qualidade adotados até os resultados das análises realizadas, servindo como base para a melhoria contínua do sistema e para o fortalecimento da sua robustez frente aos desafios do ambiente de produção.
+Jean Sammet também teve um papel fundamental na história da computação ao documentar e mapear o desenvolvimento das linguagens de programação, publicando em 1969 o livro **“Programming Languages: History and Fundamentals”**, uma das primeiras obras abrangentes sobre o tema.
+
+Ao longo de sua carreira, trabalhou na IBM e foi a primeira mulher a presidir a **Association for Computing Machinery (ACM)**. Sammet foi uma defensora ativa da presença feminina na computação e é considerada uma das figuras mais influentes da história da engenharia de software.
 
 ---
 
@@ -66,4 +68,11 @@ A documentação aqui apresentada contempla desde a definição dos critérios d
   </tr>
 </table>
 
+---
+
+## Histórico de Versões
+
+|Versão|Data|Descrição|Autor|Revisor|
+|:----:|----|---------|-----|:-------:|
+|`1.0`|22/05/2025|Criação da página inicial|[Gabriel Lima](https://github.com/gabriel-lima258)| |
 

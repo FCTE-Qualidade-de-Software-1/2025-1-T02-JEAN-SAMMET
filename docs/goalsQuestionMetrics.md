@@ -120,3 +120,60 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 | **Variation Factors**           | - Complexidade da navegação<br>- Padrões de interação<br>- Personalização e acessibilidade                  |
 | **Baseline Hypotheses**         | - Interfaces simples aumentam em 60% o uso sem ajuda<br>- Interfaces complexas elevam a taxa de desistência |
 | **Impact of Variation Factors** | Menor complexidade e melhor acessibilidade aumentam a confiança e o sucesso na execução de tarefas          |
+
+---
+
+## Tabela de Contribuição
+
+<div align="center">
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Matrícula</th>
+        <th>Nome completo</th>
+        <th>Contribuição (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>211030765</td>
+        <td><a href="https://github.com/storch7">Guilherme Storch de Oliveira</a></td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>222037610</td>
+        <td><a href="https://github.com/gabriel-lima258">Gabriel Lima da Silva</a></td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>222022000</td>
+        <td><a href="https://github.com/MilenaFRocha">Milena Fernandes Rocha</a></td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>222025324</td>
+        <td><a href="https://github.com/jlucasiqueira">João Lucas Araujo Siqueira</a></td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>222015248</td>
+        <td><a href="https://github.com/rafgpereira">Rafael Gomes Pereira</a></td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>222015112</td>
+        <td><a href="https://github.com/Gxaite">Gabriel Reis Scheidt Paulino</a></td>
+        <td>19</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## Histórico de Versões
+
+|Versão|Data|Descrição|Autor|Revisor|
+|:----:|----|---------|-----|:-------:|
+|`1.0`|22/05/2025|Criação da página inicial|[Gabriel Lima](https://github.com/gabriel-lima258)| [Guilherme Storch](https://github.com/storch7) |
+|`1.1`|25/05/2025|Criação da tabela de contribuição|[Guilherme Storch](https://github.com/storch7)| |

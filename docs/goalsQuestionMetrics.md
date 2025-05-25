@@ -74,9 +74,9 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 | ID | Pergunta                                                                                 |
 | -- | ---------------------------------------------------------------------------------------- |
-| Q7 | Os feedbacks visuais (como mudanças de cor ou animações) são percebidos pelos usuários?  |
-| Q8 | Os sinais sonoros ou alertas são compreendidos em termos de significado e ação esperada? |
-| Q9 | Os feedbacks ajudam os usuários a corrigir seus próprios erros durante o uso do sistema? |
+| Q7 | Os feedbacks utilizados são percebidos pelos usuários?  |
+| Q8 | Os sinais do sistema são compreendidos? |
+| Q9 | Os feedbacks ajudam ajudam a navegabilidade? |
 
 
 ### Diagrama
@@ -88,10 +88,10 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 | **Purpose**                     | Verificar se o sistema comunica corretamente o que está acontecendo                         |
 | **Quality Focus**               | Clareza e pontualidade dos feedbacks                                                        |
 | **Viewpoint**                   | Usuários que não compreendem mensagens de erro técnicas                                     |
-| **Quality Focus**               | - Presença de mensagens claras<br>- Feedback visual/sonoro por ação                         |
-| **Variation Factors**           | - Uso de linguagem simples<br>- Tipos de feedback (visuais, sonoros)                        |
-| **Baseline Hypotheses**         | - Feedback com ícones reduz dúvidas em 50%<br>- Feedback ausente gera frustração e abandono |
-| **Impact of Variation Factors** | Feedback claro e imediato aumenta confiança e reduz abandono de tarefas                     |
+| **Quality Focus**               | - Presença de mensagens claras<br>- Feedback visual/sonoro por ação </br>- Padronização dos elementos de feedback </br>- Alertas que previnem a ocorrência de erros </br>- Reconhecimento visual da mensagem aplicada |
+| **Baseline Hypotheses**         | - Mensagens claras reduzem a necessidade de suporte e diminuem erros de uso </br>- Feedback visual/sonoro imediato aumenta a confiança do usuário na execução da ação. </br>- A padronização do feedback reduz o tempo de aprendizado e aumenta a eficiência no uso.</br>- A ausência ou inconsistência nos feedbacks compromete a previsibilidade do sistema.</br>- Feedbacks padronizados promovem uma experiência mais fluida e consistente. |
+| **Variation Factors**           | - Uso de linguagem simples<br>- Tipos de feedback (visuais, sonoros)<br>- Tempo de navegação em um fluxo de telas|
+| **Impact of Variation Factors** | Feedback claro e imediato aumenta confiança e reduz abandono de tarefas e o tempo de realização de uma dada atividade. |
 
 
 ---

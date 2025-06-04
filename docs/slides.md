@@ -12,7 +12,8 @@
 
 ## Característica de Qualidade Avaliada
 
-As principais características de qualidade a serem avaliadas no software AgroMart são:
+As principais características de qualidade a serem avaliadas no software AgroMart, de acordo com a análise do grupo são:
+
 * **Usabilidade:** com foco em UI/UX.
 * **Confiabilidade**
 * **Eficiência**

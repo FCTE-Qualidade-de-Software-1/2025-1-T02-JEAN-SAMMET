@@ -4,42 +4,34 @@ repo_url: https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T02-JEAN-SAMMET
 repo_name: 2025.1-JEAN SAMMET
 
 theme:
-  logo: assets/jean-sammet.png
+  name: material
+  logo: assets/jean-sammet.png 
+  favicon: assets/jean-sammet.png
   font:
     text: Montserrat
-  name: material
-  features:
-    - content.code.annotate
-    - content.tabs.link
-    - header.autohide
-    - navigation.instant
-    - navigation.tabs
-    - navigation.top
-    - navigation.tracking
-    - navigation.path
-    
+    code: Roboto Mono
 
   palette:
-    # Palette toggle for light mode
-    - scheme: default
-      primary: blue
-      accent: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: light-green
       toggle:
         icon: material/weather-night
-        name: Switch to dark mode
+        name: Mudar para modo escuro
 
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: blue
-      accent: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: light-green
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
-
+        name: Mudar para modo claro
   icon:
-    repo: fontawesome/brands/git-alt
+    repo: fontawesome/brands/github
 
 nav:
-- Home: index.md 
+- Início: index.md 
+- Fase 1: slides.md
 - Goals Question Metrics - Fase definição: goalsQuestionMetrics.md
 - 

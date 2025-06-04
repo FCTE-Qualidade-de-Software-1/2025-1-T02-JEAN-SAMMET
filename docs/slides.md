@@ -12,30 +12,33 @@
 
 ## Característica de Qualidade Avaliada
 
-As principais características de qualidade a serem avaliadas no software AgroMart são:
+As principais características de qualidade a serem avaliadas no software AgroMart, de acordo com a análise do grupo são:
+
 * **Usabilidade:** com foco em UI/UX.
 * **Confiabilidade**
 * **Eficiência**
 
 ### Justificativa
 
-O perfil de usuário que utilizará a plataforma aponta para possíveis dificuldades de uso do sistema no que se refere à questão de interface. O desafio é avaliar a usabilidade do sistema para os diferentes tipos de usuário e se o que foi/será desenvolvido é de fato utilizável e agrega valor ao público-alvo.
+A escolha destas **características de qualidade** é fundamental para o sucesso do _AgroMart_. Dado que o perfil de usuário que utilizará a plataforma aponta para possíveis dificuldades de uso do sistema no que se refere à questão de interface, a usabilidade emerge como um pilar central. O desafio é avaliar a usabilidade do sistema para os diferentes tipos de usuário e se o que foi/será desenvolvido é de fato utilizável e agrega valor ao público-alvo, garantindo que a tecnologia seja uma aliada e não uma barreira. A confiabilidade assegura que o sistema funcione como esperado, e a eficiência garante que os usuários possam realizar suas tarefas de forma rápida e produtiva.
 
 ---
 
 ## Perfis de Usuário
 
-Foram levantados os seguintes perfis de usuários para a plataforma:
+Para atender às diversas necessidades e garantir uma experiência inclusiva, foram levantados os seguintes perfis de usuários para a plataforma:
 
 * Pessoa com baixa alfabetização digital
 * Migrante digital
 * Pessoa alfabetizada digitalmente
 
+A consideração desses diferentes níveis de familiaridade com a tecnologia é crucial para o design de interfaces e funcionalidades que sejam acessíveis e intuitivas para todos.
+
 ---
 
 ## Requisitos de Avaliação de Usabilidade
 
-Os critérios para a avaliação da usabilidade do sistema são:
+Com base nos perfis de usuário identificados e no foco em usabilidade, os critérios para a avaliação da usabilidade do sistema são:
 
 | Critério | Descrição |
 | :--- | :--- |
@@ -46,20 +49,19 @@ Os critérios para a avaliação da usabilidade do sistema são:
 | **Prevenção de erros** | A interface deve minimizar a ocorrência de erros e guiar o usuário na recuperação quando eles ocorrerem. |
 | **Acessibilidade e legibilidade** | O sistema deve apresentar contraste de cores adequado, fontes legíveis e navegação intuitiva. |
 
+
+Estes requisitos guiarão o desenvolvimento e os testes, assegurando que o AgroMart seja uma ferramenta eficaz e agradável de usar.
+
 ---
 
 ## Objetivos de Desenvolvimento Sustentável (ODS) Relacionados
 
-O projeto AgroMart está alinhado com os seguintes Objetivos de Desenvolvimento Sustentável da ONU:
+O projeto AgroMart não apenas visa facilitar a comercialização de produtos agroecológicos, mas também se alinha ativamente com os Objetivos de Desenvolvimento Sustentável (ODS) propostos pela Organização das Nações Unidas (ONU). Ao fortalecer a agricultura familiar e promover práticas sustentáveis, o AgroMart contribui diretamente para:
 
-* **ODS 2:** Fome Zero e Agricultura Sustentável
-* **ODS 8:** Trabalho Decente e Crescimento Econômico
-* **ODS 12:** Consumo e Produção Responsáveis
-* **ODS 13:** Ação Contra a Mudança Global do Clima
-* **ODS 15:** Vida Terrestre
-  
----
+* **ODS 2:** **_Fome Zero e Agricultura Sustentável_** - Ao facilitar o acesso dos pequenos produtores ao mercado, o AgroMart promove a agricultura sustentável e contribui para a segurança alimentar, disponibilizando alimentos saudáveis e agroecológicos para a comunidade.
+* **ODS 8:** **_Trabalho Decente e Crescimento Econômico_** - A plataforma visa empoderar os agricultores familiares, proporcionando uma ferramenta para a geração de renda e a formalização de suas atividades, fomentando o crescimento econômico local e o trabalho decente no campo.
+* **ODS 12:** **_Consumo e Produção Responsáveis_** - O AgroMart incentiva padrões de produção e consumo mais conscientes, conectando produtores de alimentos agroecológicos a consumidores que buscam produtos sustentáveis, reduzindo o desperdício e o impacto ambiental da cadeia produtiva.
+* **ODS 13:** **_Ação Contra a Mudança Global do Clima_** - Ao apoiar a agricultura agroecológica, que geralmente envolve práticas de baixo carbono e conservação do solo, o projeto contribui para a mitigação dos efeitos das mudanças climáticas e para a adaptação a elas.
+* **ODS 15:** **_Vida Terrestre_** - A promoção de práticas agrícolas sustentáveis e agroecológicas, incentivada pelo AgroMart, é fundamental para a conservação da biodiversidade, a proteção dos ecossistemas terrestres e a utilização sustentável dos recursos naturais.
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`1.0`|02/06/2025|Criação da página inicial|[Milena Rocha](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7) |
+A integração desses objetivos no cerne do AgroMart reforça seu compromisso com um futuro mais justo, equitativo e ambientalmente responsável.

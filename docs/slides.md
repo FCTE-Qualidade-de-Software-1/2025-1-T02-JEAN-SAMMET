@@ -65,3 +65,10 @@ O projeto AgroMart não apenas visa facilitar a comercialização de produtos ag
 * **ODS 15:** **_Vida Terrestre_** - A promoção de práticas agrícolas sustentáveis e agroecológicas, incentivada pelo AgroMart, é fundamental para a conservação da biodiversidade, a proteção dos ecossistemas terrestres e a utilização sustentável dos recursos naturais.
 
 A integração desses objetivos no cerne do AgroMart reforça seu compromisso com um futuro mais justo, equitativo e ambientalmente responsável.
+
+---
+
+|Versão|Data|Descrição|Autor|Revisor|
+|:----:|----|---------|-----|:-------:|
+|`1.0`|02/06/2025|Criação da página inicial e adição dos tópicos|[Milena Rocha](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7) |
+|`1.1`|03/06/2025|ajustes |[Rafael Pereira](https://github.com/rafpereira)| [Guilherme Storch](https://github.com/storch7) |

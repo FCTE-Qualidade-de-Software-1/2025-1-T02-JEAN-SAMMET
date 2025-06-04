@@ -57,3 +57,9 @@ O projeto AgroMart está alinhado com os seguintes Objetivos de Desenvolvimento 
 * **ODS 12:** Consumo e Produção Responsáveis
 * **ODS 13:** Ação Contra a Mudança Global do Clima
 * **ODS 15:** Vida Terrestre
+  
+---
+
+|Versão|Data|Descrição|Autor|Revisor|
+|:----:|----|---------|-----|:-------:|
+|`1.0`|02/06/2025|Criação da página inicial|[Milena Rocha](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7) |

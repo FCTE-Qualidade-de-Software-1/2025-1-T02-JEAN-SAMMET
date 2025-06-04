@@ -26,11 +26,13 @@ A escolha destas **características de qualidade** é fundamental para o sucesso
 
 ## Perfis de Usuário
 
-Foram levantados os seguintes perfis de usuários para a plataforma:
+Para atender às diversas necessidades e garantir uma experiência inclusiva, foram levantados os seguintes perfis de usuários para a plataforma:
 
 * Pessoa com baixa alfabetização digital
 * Migrante digital
 * Pessoa alfabetizada digitalmente
+
+A consideração desses diferentes níveis de familiaridade com a tecnologia é crucial para o design de interfaces e funcionalidades que sejam acessíveis e intuitivas para todos.
 
 ---
 

@@ -20,7 +20,7 @@ As principais características de qualidade a serem avaliadas no software AgroMa
 
 ### Justificativa
 
-O perfil de usuário que utilizará a plataforma aponta para possíveis dificuldades de uso do sistema no que se refere à questão de interface. O desafio é avaliar a usabilidade do sistema para os diferentes tipos de usuário e se o que foi/será desenvolvido é de fato utilizável e agrega valor ao público-alvo.
+A escolha destas **características de qualidade** é fundamental para o sucesso do _AgroMart_. Dado que o perfil de usuário que utilizará a plataforma aponta para possíveis dificuldades de uso do sistema no que se refere à questão de interface, a usabilidade emerge como um pilar central. O desafio é avaliar a usabilidade do sistema para os diferentes tipos de usuário e se o que foi/será desenvolvido é de fato utilizável e agrega valor ao público-alvo, garantindo que a tecnologia seja uma aliada e não uma barreira. A confiabilidade assegura que o sistema funcione como esperado, e a eficiência garante que os usuários possam realizar suas tarefas de forma rápida e produtiva.
 
 ---
 

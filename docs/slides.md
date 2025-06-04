@@ -38,7 +38,7 @@ A consideração desses diferentes níveis de familiaridade com a tecnologia é 
 
 ## Requisitos de Avaliação de Usabilidade
 
-Os critérios para a avaliação da usabilidade do sistema são:
+Com base nos perfis de usuário identificados e no foco em usabilidade, os critérios para a avaliação da usabilidade do sistema são:
 
 | Critério | Descrição |
 | :--- | :--- |
@@ -48,6 +48,9 @@ Os critérios para a avaliação da usabilidade do sistema são:
 | **Facilidade de memorização** | Usuários que retornam ao sistema após um tempo sem uso devem conseguir relembrar as funções intuitivamente. |
 | **Prevenção de erros** | A interface deve minimizar a ocorrência de erros e guiar o usuário na recuperação quando eles ocorrerem. |
 | **Acessibilidade e legibilidade** | O sistema deve apresentar contraste de cores adequado, fontes legíveis e navegação intuitiva. |
+
+
+Estes requisitos guiarão o desenvolvimento e os testes, assegurando que o AgroMart seja uma ferramenta eficaz e agradável de usar.
 
 ---
 

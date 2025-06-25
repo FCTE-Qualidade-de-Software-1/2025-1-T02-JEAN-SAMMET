@@ -1,12 +1,12 @@
-# AgroMart: Documentação do Projeto - Fase 1
+# AgroMart - Fase 1
 
 ## Sobre o Projeto
 
-**Nome:** AGROMART
-**Descrição:** Software de apoio à comercialização de cestas de produtos agroecológicos de comunidades de pequenos produtores.
-**Instituição:** UNB Faculdade de Ciência e Tecnologia em Engenharia (FCTE) - UnB Campus Gama
-**Disciplina:** Qualidade de Software
-**Grupo:** Jean Sammet
+- **Nome:** AGROMART
+- **Descrição:** Software de apoio à comercialização de cestas de produtos agroecológicos de comunidades de pequenos produtores.
+- **Instituição:** UNB Faculdade de Ciência e Tecnologia em Engenharia (FCTE) - UnB Campus Gama
+- **Disciplina:** Qualidade de Software
+- **Grupo:** Jean Sammet
 
 ---
 
@@ -17,6 +17,8 @@ As principais características de qualidade a serem avaliadas no software AgroMa
 * **Usabilidade:** com foco em UI/UX.
 * **Confiabilidade**
 * **Eficiência**
+  
+---
 
 ### Justificativa
 

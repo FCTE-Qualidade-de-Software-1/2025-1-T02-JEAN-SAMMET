@@ -22,6 +22,7 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 | Q5 | As imagens e cores contribuem para a tomada de decisão durante a navegação?                    |
 | Q6 | Há confusão entre elementos visuais com significados distintos ou sobreposição de funções?     |
 
+---
 
 ### Diagrama
 
@@ -84,32 +85,32 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
       <tr>
         <td>211030765</td>
         <td><a href="https://github.com/storch7">Guilherme Storch de Oliveira</a></td>
-        <td>19</td>
+        <td>16.66</td>
       </tr>
       <tr>
         <td>222037610</td>
         <td><a href="https://github.com/gabriel-lima258">Gabriel Lima da Silva</a></td>
-        <td>19</td>
+        <td>16.66</td>
       </tr>
       <tr>
         <td>222022000</td>
         <td><a href="https://github.com/MilenaFRocha">Milena Fernandes Rocha</a></td>
-        <td>19</td>
+        <td>16.66</td>
       </tr>
       <tr>
         <td>222025324</td>
         <td><a href="https://github.com/jlucasiqueira">João Lucas Araujo Siqueira</a></td>
-        <td>19</td>
+        <td>16.66</td>
       </tr>
       <tr>
         <td>222015248</td>
         <td><a href="https://github.com/rafgpereira">Rafael Gomes Pereira</a></td>
-        <td>19</td>
+        <td>16.66</td>
       </tr>
       <tr>
         <td>222015112</td>
         <td><a href="https://github.com/Gxaite">Gabriel Reis Scheidt Paulino</a></td>
-        <td>19</td>
+        <td>16.66</td>
       </tr>
     </tbody>
   </table>
@@ -119,8 +120,8 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 ## Histórico de Versões
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
+|Versão|Data|Descrição|Autor|
+|:----:|----|---------|-----|
 |`1.0`|22/05/2025|Criação da página inicial|[Gabriel Lima](https://github.com/gabriel-lima258)| [Guilherme Storch](https://github.com/storch7) |
-|`1.1`|25/05/2025|Criação da tabela de contribuição|[Guilherme Storch](https://github.com/storch7)| |
+|`1.1`|25/05/2025|Criação da tabela de contribuição|[Guilherme Storch](https://github.com/storch7)|
 |`1.2`|26/05/2025|Ajustes e diagrama do objetivo 2|[Milena Fernandes](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7)|

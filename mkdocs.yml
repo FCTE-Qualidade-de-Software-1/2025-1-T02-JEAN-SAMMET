@@ -5,8 +5,8 @@ repo_name: 2025.1-JEAN SAMMET
 
 theme:
   name: material
-  logo: assets/jean-sammet.png 
-  favicon: assets/jean-sammet.png
+  logo: assets/unb-logo.png
+  favicon: assets/unb-logo.png
   font:
     text: Montserrat
     code: Roboto Mono
@@ -32,5 +32,10 @@ theme:
 
 nav:
 - Início: index.md 
-- Fase 1: slides.md
-- Goals Question Metrics - Fase definição: goalsQuestionMetrics.md
+
+- GQM - Fase definição: goalsQuestionMetrics.md
+- Avaliação do Produto:
+  - Fase 1: fase1.md
+  - Fase 2: fase2.md
+  - Fase 3: fase3.md
+  - Fase 4: fase4.md

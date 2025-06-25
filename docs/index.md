@@ -3,11 +3,11 @@
 <p align="center">
   <img src="assets/jean-sammet.png" 
        width="50%" 
-       style="background-color:blue; border:1px solid green; border-radius:10px; padding:0.5px;" 
+       style="border-radius:10px; padding:0.5px;" 
        alt="Logo AgroMart">
 </p>
 
-<p align="center" style="font-size: 12px; font-style: italic;">
+<p align="center" style="font-size: 16px; font-style: italic;">
   Figura 1: Jean E. Sammet 
 </p>
 

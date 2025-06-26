@@ -1,4 +1,10 @@
-# AgroMart - Fase 1
+# AgroMart - Propósito da avaliação
+
+## Introdução 
+
+Nesta fase inicial, buscou-se definir com clareza os fundamentos da avaliação de qualidade do software AgroMart. O principal objetivo foi compreender o propósito da avaliação, identificar os produtos a serem avaliados e selecionar o modelo de qualidade mais adequado. Optou-se pela adoção do modelo Q-RAPID, dada sua ênfase em aspectos relevantes como robustez, adaptabilidade e segurança – características diretamente alinhadas aos objetivos estratégicos do AgroMart. Essa etapa estabelece as bases conceituais e práticas que guiarão todas as fases subsequentes do processo de avaliação, garantindo alinhamento com a norma ISO/IEC 25040 (SQuaRE).
+
+---
 
 ## Sobre o Projeto
 

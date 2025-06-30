@@ -1,10 +1,18 @@
-# AgroMart - Projetar a avaliação
+# Gestão do Projeto PSM/CID
 
-## Introdução
+## Introdução 
 
-Com os objetivos e métricas definidos, a terceira fase concentrou-se na elaboração do plano de avaliação, estruturando como a coleta de dados e a análise seriam conduzidas. Isso incluiu a definição de instrumentos, procedimentos, cronogramas e responsabilidades da equipe avaliadora. A fase de projeto visa transformar os conceitos e métricas definidos nas fases anteriores em um plano operacional viável, que assegure a consistência e a reprodutibilidade dos resultados. Um plano bem estruturado nesta etapa é essencial para uma execução eficiente e alinhada ao escopo proposto.
+A segunda parte do trabalho consistiu na aplicação prática de princípios de gestão de projetos baseada em métricas, com foco no modelo PSM/CID (Practical Software Measurement / Center for Industrial and Defense). Essa abordagem visa promover o acompanhamento contínuo do progresso do projeto por meio da coleta e análise de indicadores objetivos, organizados em três categorias fundamentais: Desempenho dos Processos, Calendário e Progresso, e Recursos e Custos.
 
---- 
+---
+
+## Metodologia
+
+Durante o desenvolvimento das atividades, a equipe se comprometeu a registrar evidências claras e rastreáveis dessas métricas, utilizando ferramentas de versionamento como o GitHub (via commits, issues, milestones e dashboards). Esse controle refinado permitiu uma visão gerencial abrangente do andamento do projeto, facilitando a tomada de decisões, a identificação de gargalos e a promoção de melhorias no processo de desenvolvimento.
+
+Ao integrar métricas PSM/CID ao contexto acadêmico e técnico do projeto AgroMart, a equipe fortaleceu sua capacidade de planejamento, monitoramento e controle, ao mesmo tempo em que garantiu maior transparência e profissionalismo na execução das tarefas. Essa prática é especialmente valiosa em projetos de software orientados à qualidade, pois une avaliação técnica à maturidade na condução do trabalho colaborativo.
+
+---
 
 ## Tabela de Contribuição
 

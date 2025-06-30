@@ -33,9 +33,10 @@ theme:
 nav:
 - Início: index.md 
 
-- GQM - Fase definição: goalsQuestionMetrics.md
+- GQM - Definição: goalsQuestionMetrics.md
 - Avaliação do Produto:
   - Fase 1: fase1.md
   - Fase 2: fase2.md
   - Fase 3: fase3.md
   - Fase 4: fase4.md
+- Gestão do Projeto PSM/CID : gestao-projeto.md

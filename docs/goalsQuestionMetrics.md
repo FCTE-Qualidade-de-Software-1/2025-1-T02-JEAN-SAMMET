@@ -120,8 +120,8 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 ## Histórico de Versões
 
-|Versão|Data|Descrição|Autor|
-|:----:|----|---------|-----|
+|Versão|Data|Descrição|Autor| Revisor |
+|:----:|----|---------|-----|---------|
 |`1.0`|22/05/2025|Criação da página inicial|[Gabriel Lima](https://github.com/gabriel-lima258)| [Guilherme Storch](https://github.com/storch7) |
-|`1.1`|25/05/2025|Criação da tabela de contribuição|[Guilherme Storch](https://github.com/storch7)|
+|`1.1`|25/05/2025|Criação da tabela de contribuição|[Guilherme Storch](https://github.com/storch7)| [Milena Fernandes](https://github.com/milenafrocha) |
 |`1.2`|26/05/2025|Ajustes e diagrama do objetivo 2|[Milena Fernandes](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7)|

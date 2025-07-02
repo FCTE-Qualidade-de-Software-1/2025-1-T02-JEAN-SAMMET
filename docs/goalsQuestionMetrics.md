@@ -18,9 +18,9 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 | ID | Pergunta                                                                                       |
 | -- | ---------------------------------------------------------------------------------------------- |
-| Q4 | Os usuários conseguem distinguir claramente os significados dos ícones e das cores utilizadas?|
-| Q5 | As imagens e cores contribuem para a tomada de decisão durante a navegação?                    |
-| Q6 | Há confusão entre elementos visuais com significados distintos ou sobreposição de funções?     |
+| Q1 | Os usuários conseguem distinguir claramente os significados dos ícones e das cores utilizadas?|
+| Q2 | As imagens e cores contribuem para a tomada de decisão durante a navegação?                    |
+| Q3 | Há confusão entre elementos visuais com significados distintos ou sobreposição de funções?     |
 
 ---
 
@@ -48,9 +48,9 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 
 | ID | Pergunta                                                                                 |
 | -- | ---------------------------------------------------------------------------------------- |
-| Q7 | Os feedbacks utilizados são percebidos pelos usuários?  |
-| Q8 | Os sinais do sistema são compreendidos? |
-| Q9 | Os feedbacks ajudam ajudam a navegabilidade? |
+| Q4 | Os feedbacks utilizados são percebidos pelos usuários?  |
+| Q5 | Os sinais do sistema são compreendidos? |
+| Q6 | Os feedbacks ajudam ajudam a navegabilidade? |
 
 ### Diagrama
 
@@ -67,6 +67,48 @@ Melhorar a experiência do usuário (UX/UI), com foco especial na inclusão de a
 | **Baseline Hypotheses**         | - Mensagens claras reduzem a necessidade de suporte e diminuem erros de uso </br>- Feedback visual/sonoro imediato aumenta a confiança do usuário na execução da ação. </br>- A padronização do feedback reduz o tempo de aprendizado e aumenta a eficiência no uso.</br>- A ausência ou inconsistência nos feedbacks compromete a previsibilidade do sistema.</br>- Feedbacks padronizados promovem uma experiência mais fluida e consistente. |
 | **Variation Factors**           | - Uso de linguagem simples<br>- Tipos de feedback (visuais, sonoros)<br>- Tempo de navegação em um fluxo de telas|
 | **Impact of Variation Factors** | Feedback claro e imediato aumenta confiança e reduz abandono de tarefas e o tempo de realização de uma dada atividade. |
+
+---
+## Estrutura GQM Hierárquica
+
+### Objetivo 1: Verificar a compreensão dos elementos visuais
+
+- Questão Q1: Os usuários conseguem distinguir claramente os significados dos ícones e das cores utilizadas?
+  - Métrica: Taxa de acertos em tarefas de identificação de ícones
+- Questão Q2: As imagens e cores contribuem para a tomada de decisão durante a navegação?
+  - Métrica: Tempo médio de navegação até conclusão de tarefas visuais
+- Questão Q3: Há confusão entre elementos visuais com significados distintos ou sobreposição de funções?
+  - Métrica: Número médio de erros cometidos por confusão visual
+
+---
+
+### Objetivo 2: Avaliar a clareza dos feedbacks do sistema
+
+- Questão Q4: Os feedbacks utilizados são percebidos pelos usuários?
+  - Métrica: Taxa de reconhecimento de feedback (visível ou sonoro) em testes controlados
+- Questão Q5: Os sinais do sistema são compreendidos?
+  - Métrica: Índice de compreensão de mensagens do sistema (por formulário pós-uso)
+- Questão Q6: Os feedbacks ajudam a navegabilidade?
+  - Métrica: Tempo total para realizar tarefa com e sem feedback visível
+
+## Tabela Resumida GQM
+
+| Objetivo | Questão | Métrica |
+|----------|---------|---------|
+| Verificar compreensão dos elementos visuais | Q1 – Clareza de ícones e cores | Taxa de acertos visuais |
+|                                          | Q2 – Imagens ajudam na navegação | Tempo de navegação |
+|                                          | Q3 – Confusão entre elementos     | Número de erros visuais |
+| Avaliar a clareza dos feedbacks          | Q4 – Feedbacks são percebidos     | Reconhecimento do feedback |
+|                                          | Q5 – Feedbacks são compreendidos  | Índice de compreensão |
+|                                          | Q6 – Feedbacks ajudam na navegação| Tempo de tarefa com/sem feedback |
+
+---
+
+## Conexão com o Modelo de Qualidade e Fase 1
+
+Os objetivos de avaliação apresentados nesta página foram derivados da Fase 1, com base nos fatores de qualidade priorizados pelo modelo Q-RAPID. Especificamente, os dois objetivos principais (compreensão de elementos visuais e clareza dos feedbacks) estão alinhados aos fatores **usabilidade** e **compreensibilidade**, considerados críticos para a experiência do usuário no sistema AgroMart.
+
+A partir desses fatores, estruturamos os objetivos conforme a abordagem GQM (Goal – Question – Metric), conforme detalhado a seguir.
 
 ---
 

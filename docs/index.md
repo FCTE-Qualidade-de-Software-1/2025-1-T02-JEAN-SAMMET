@@ -70,9 +70,9 @@ Ao longo de sua carreira, trabalhou na IBM e foi a primeira mulher a presidir a 
 
 ---
 
-## Histórico de Versões
+## 📅 Histórico de Versões
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
+| 📌 Versão | 📆 Data | ✍️ Descrição | 👤 Autor | 🔍 Revisor |
+|:--------:|:-------|:-------------|:--------|:-----------:|
 |`1.0`|22/05/2025|Criação da página inicial|[Gabriel Lima](https://github.com/gabriel-lima258)|[Guilherme Storch](https://github.com/storch7) |
 

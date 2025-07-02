@@ -1,82 +1,111 @@
-# AgroMart - Propósito da avaliação
+# 🌱 **AgroMart - Propósito da Avaliação**
 
-## Introdução 
+## 📘 Introdução
 
-Nesta fase inicial, buscou-se definir com clareza os fundamentos da avaliação de qualidade do software AgroMart. O principal objetivo foi compreender o propósito da avaliação, identificar os produtos a serem avaliados e selecionar o modelo de qualidade mais adequado. Optou-se pela adoção do modelo Q-RAPID, dada sua ênfase em aspectos relevantes como robustez, adaptabilidade e segurança – características diretamente alinhadas aos objetivos estratégicos do AgroMart. Essa etapa estabelece as bases conceituais e práticas que guiarão todas as fases subsequentes do processo de avaliação, garantindo alinhamento com a norma ISO/IEC 25040 (SQuaRE).
+Nesta fase inicial, buscamos definir com clareza os fundamentos da avaliação de qualidade do software **AgroMart**. O principal objetivo foi compreender **o propósito da avaliação**, identificar os **produtos a serem avaliados** e selecionar o **modelo de qualidade mais adequado**.
 
----
-
-## Sobre o Projeto
-
-- **Nome:** AGROMART
-- **Descrição:** Software de apoio à comercialização de cestas de produtos agroecológicos de comunidades de pequenos produtores.
-- **Instituição:** UNB Faculdade de Ciência e Tecnologia em Engenharia (FCTE) - UnB Campus Gama
-- **Disciplina:** Qualidade de Software
-- **Grupo:** Jean Sammet
+🎯 Optamos pelo modelo **Q-RAPID**, com foco em robustez, adaptabilidade e segurança — características alinhadas aos objetivos do AgroMart. Essa etapa estabelece as **bases conceituais e práticas** que nortearão as fases futuras, em conformidade com a **norma ISO/IEC 25040 (SQuaRE)**.
 
 ---
 
-## Característica de Qualidade Avaliada
+## 🧩 Sobre o Projeto
 
-As principais características de qualidade a serem avaliadas no software AgroMart, de acordo com a análise do grupo são:
-
-* **Usabilidade:** com foco em UI/UX.
-* **Confiabilidade**
-* **Eficiência**
-  
----
-
-### Justificativa
-
-A escolha destas **características de qualidade** é fundamental para o sucesso do _AgroMart_. Dado que o perfil de usuário que utilizará a plataforma aponta para possíveis dificuldades de uso do sistema no que se refere à questão de interface, a usabilidade emerge como um pilar central. O desafio é avaliar a usabilidade do sistema para os diferentes tipos de usuário e se o que foi/será desenvolvido é de fato utilizável e agrega valor ao público-alvo, garantindo que a tecnologia seja uma aliada e não uma barreira. A confiabilidade assegura que o sistema funcione como esperado, e a eficiência garante que os usuários possam realizar suas tarefas de forma rápida e produtiva.
+- **📛 Nome:** AGROMART (versão Web)
+- **📝 Descrição:** Software de apoio à comercialização de cestas de produtos agroecológicos de comunidades de pequenos produtores  
+- **🏛️ Instituição:** Universidade de Brasília (UnB) – FCTE / Campus Gama  
+- **📚 Repositório:** <a href="https://github.com/AgroMart">AgroMart</a>  
+- **👥 Grupo:** Jean Sammet  
 
 ---
 
-## Perfis de Usuário
+## 🧪 Características de Qualidade Avaliadas
 
-Para atender às diversas necessidades e garantir uma experiência inclusiva, foram levantados os seguintes perfis de usuários para a plataforma:
+As principais **características de qualidade** analisadas são:
 
-* Pessoa com baixa alfabetização digital
-* Migrante digital
-* Pessoa alfabetizada digitalmente
-
-A consideração desses diferentes níveis de familiaridade com a tecnologia é crucial para o design de interfaces e funcionalidades que sejam acessíveis e intuitivas para todos.
+- 🎨 **Usabilidade** – com foco em UI/UX  
+- 🛡️ **Confiabilidade**  
+- ⚡ **Eficiência**
 
 ---
 
-## Requisitos de Avaliação de Usabilidade
+### 🧠 Justificativa
 
-Com base nos perfis de usuário identificados e no foco em usabilidade, os critérios para a avaliação da usabilidade do sistema são:
+A escolha dessas características é **crucial para o sucesso** do AgroMart. Considerando o público-alvo com diferentes níveis de familiaridade com tecnologia, a **usabilidade** se destaca como um pilar central.  
 
-| Critério | Descrição |
-| :--- | :--- |
-| **Adequação ao propósito** | O sistema deve ser capaz de ajudar o agricultor a registrar e consultar informações. |
-| **Eficiência de uso** | O usuário deve conseguir realizar suas tarefas com um número mínimo de passos e em tempo aceitável, sem retrabalho ou confusão. |
-| **Facilidade de aprendizado** | Agricultores com pouca experiência tecnológica devem aprender as funções básicas rapidamente. |
-| **Facilidade de memorização** | Usuários que retornam ao sistema após um tempo sem uso devem conseguir relembrar as funções intuitivamente. |
-| **Prevenção de erros** | A interface deve minimizar a ocorrência de erros e guiar o usuário na recuperação quando eles ocorrerem. |
-| **Acessibilidade e legibilidade** | O sistema deve apresentar contraste de cores adequado, fontes legíveis e navegação intuitiva. |
-
-
-Estes requisitos guiarão o desenvolvimento e os testes, assegurando que o AgroMart seja uma ferramenta eficaz e agradável de usar.
+💡 A avaliação visa entender **se o sistema é fácil de usar**, **eficiente** nas tarefas e **confiável** para o público-alvo — garantindo que a tecnologia seja uma aliada e **não uma barreira**.
 
 ---
 
-## Objetivos de Desenvolvimento Sustentável (ODS) Relacionados
+## 👤 Perfis de Usuário
 
-O projeto AgroMart não apenas visa facilitar a comercialização de produtos agroecológicos, mas também se alinha ativamente com os Objetivos de Desenvolvimento Sustentável (ODS) propostos pela Organização das Nações Unidas (ONU). Ao fortalecer a agricultura familiar e promover práticas sustentáveis, o AgroMart contribui diretamente para:
+Para uma experiência mais inclusiva, foram definidos os seguintes perfis:
 
-* **ODS 2:** **_Fome Zero e Agricultura Sustentável_** - Ao facilitar o acesso dos pequenos produtores ao mercado, o AgroMart promove a agricultura sustentável e contribui para a segurança alimentar, disponibilizando alimentos saudáveis e agroecológicos para a comunidade.
-* **ODS 8:** **_Trabalho Decente e Crescimento Econômico_** - A plataforma visa empoderar os agricultores familiares, proporcionando uma ferramenta para a geração de renda e a formalização de suas atividades, fomentando o crescimento econômico local e o trabalho decente no campo.
-* **ODS 12:** **_Consumo e Produção Responsáveis_** - O AgroMart incentiva padrões de produção e consumo mais conscientes, conectando produtores de alimentos agroecológicos a consumidores que buscam produtos sustentáveis, reduzindo o desperdício e o impacto ambiental da cadeia produtiva.
-* **ODS 13:** **_Ação Contra a Mudança Global do Clima_** - Ao apoiar a agricultura agroecológica, que geralmente envolve práticas de baixo carbono e conservação do solo, o projeto contribui para a mitigação dos efeitos das mudanças climáticas e para a adaptação a elas.
-* **ODS 15:** **_Vida Terrestre_** - A promoção de práticas agrícolas sustentáveis e agroecológicas, incentivada pelo AgroMart, é fundamental para a conservação da biodiversidade, a proteção dos ecossistemas terrestres e a utilização sustentável dos recursos naturais.
+- 🧑‍🌾 Pessoa com **baixa alfabetização digital**  
+- 👴 Migrante digital  
+- 👨‍💻 Pessoa **alfabetizada digitalmente**
 
-A integração desses objetivos no cerne do AgroMart reforça seu compromisso com um futuro mais justo, equitativo e ambientalmente responsável.
+📌 Esses perfis orientam o design e funcionalidades para que a plataforma seja **intuitiva e acessível** a todos.
 
 ---
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`1.0`|02/06/2025|Criação da página inicial e adição dos tópicos|[Milena Rocha](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7) |
-|`1.1`|03/06/2025|ajustes |[Rafael Pereira](https://github.com/rafpereira)| [Guilherme Storch](https://github.com/storch7) |
+## 🧭 Requisitos de Avaliação de Usabilidade
+
+Baseando-se nos perfis, os critérios de usabilidade definidos são:
+
+| ✅ **Critério** | 📝 **Descrição** |
+|:----------------|:----------------|
+| 🎯 **Adequação ao propósito** | Deve auxiliar o agricultor a registrar e consultar informações |
+| ⚡ **Eficiência de uso** | Tarefas devem ser rápidas, com poucos passos e sem confusão |
+| 📖 **Facilidade de aprendizado** | Funções básicas devem ser aprendidas com facilidade |
+| 🧠 **Facilidade de memorização** | Retorno ao sistema deve ser intuitivo |
+| 🛑 **Prevenção de erros** | A interface deve evitar erros e ajudar na recuperação |
+| 👁️‍🗨️ **Acessibilidade e legibilidade** | Contraste adequado, fontes legíveis e navegação intuitiva |
+
+Esses critérios guiarão o desenvolvimento e testes, garantindo uma **experiência eficaz e agradável**.
+
+---
+
+## 🌍 Contribuição aos Objetivos de Desenvolvimento Sustentável (ODS)
+
+O AgroMart também apoia ativamente os **ODS da ONU**, contribuindo para um mundo mais justo e sustentável:
+
+- 🥦 **ODS 2 – Fome Zero e Agricultura Sustentável**  
+  ➤ Facilita o acesso de pequenos produtores ao mercado e promove segurança alimentar  
+
+- 💼 **ODS 8 – Trabalho Decente e Crescimento Econômico**  
+  ➤ Empodera agricultores, gerando renda e fomentando o desenvolvimento local  
+
+- 🌱 **ODS 12 – Consumo e Produção Responsáveis**  
+  ➤ Estimula práticas sustentáveis e combate o desperdício  
+
+- 🌡️ **ODS 13 – Ação Contra a Mudança Global do Clima**  
+  ➤ Apoia práticas agrícolas de baixo impacto ambiental  
+
+- 🌳 **ODS 15 – Vida Terrestre**  
+  ➤ Conserva a biodiversidade por meio da agricultura agroecológica  
+
+🚀 Esses objetivos mostram que o AgroMart é mais do que um software — é uma **ferramenta de transformação social e ambiental**.
+
+---
+
+## 👥 Tabela de Contribuição
+
+| 🎓 Matrícula | 🙋 Nome completo | 📊 Contribuição (%) |
+|-------------|------------------|---------------------|
+| 211030765 | [Guilherme Storch de Oliveira](https://github.com/storch7) | 16.66 |
+| 222037610 | [Gabriel Lima da Silva](https://github.com/gabriel-lima258) | 16.66 |
+| 222022000 | [Milena Fernandes Rocha](https://github.com/MilenaFRocha) | 16.66 |
+| 222025324 | [João Lucas Araujo Siqueira](https://github.com/jlucasiqueira) | 16.66 |
+| 222015248 | [Rafael Gomes Pereira](https://github.com/rafgpereira) | 16.66 |
+| 222015112 | [Gabriel Reis Scheidt Paulino](https://github.com/Gxaite) | 16.66 |
+
+---
+
+
+## 📅 Histórico de Versões
+
+| 📌 Versão | 📆 Data | ✍️ Descrição | 👤 Autor | 🔍 Revisor |
+|:--------:|:-------|:-------------|:--------|:-----------:|
+| `1.0` | 02/06/2025 | Criação da página inicial e adição dos tópicos | [Milena Rocha](https://github.com/milenafrocha) | [Guilherme Storch](https://github.com/storch7) |
+| `1.1` | 03/06/2025 | Ajustes | [Rafael Pereira]() | [Guilherme Storch](https://github.com/storch7) |
+| `1.2` | 02/07/2025 | Organização textual | [Gabriel Lima](https://github.com/gabriel-lima258) | [Guilherme Storch](https://github.com/storch7) |

@@ -39,4 +39,9 @@ nav:
   - Fase 2: fase2.md
   - Fase 3: fase3.md
   - Fase 4: fase4.md
-- Gestão do Projeto PSM/CID : gestao-projeto.md
+
+- Gestão do Projeto PSM/CID : 
+  - Metodologia: gestao-projeto.md
+  - Desempenho e Processo: desempenho.md
+  - Calendário e Progresso: calendario.md
+  - Recursos e Custos: custos.md

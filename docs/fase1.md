@@ -15,6 +15,12 @@ Nesta fase inicial, buscamos definir com clareza os fundamentos da avaliação d
 - **🏛️ Instituição:** Universidade de Brasília (UnB) – FCTE / Campus Gama  
 - **📚 Repositório:** <a href="https://github.com/AgroMart">AgroMart</a>  
 - **👥 Grupo:** Jean Sammet  
+---
+
+## 📥 Guia para Rodar Localmente
+
+Antes de começar, leia nosso [Guia de Contribuição](CONTRIBUTING.md) para entender os padrões de código e regras.
+
 
 ---
 

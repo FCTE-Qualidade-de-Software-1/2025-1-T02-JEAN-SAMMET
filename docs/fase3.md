@@ -108,3 +108,4 @@ A tabela abaixo apresenta, **para cada métrica**, a escala utilizada, os nívei
 | 📌 Versão | 📆 Data | ✍️ Descrição | 👤 Autor | 🔍 Revisor |
 |:--------:|:-------|:-------------|:--------|:-----------:|
 |`1.0`| 26/06/2025| Criação da documentação |[Gabriel Lima](https://github.com/gabriel-lima258)| [Guilherme Storch](https://github.com/storch7) |
+|`1.1`| 26/06/2025| Criação e definição dos testes |[Milena Rocha](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7) |

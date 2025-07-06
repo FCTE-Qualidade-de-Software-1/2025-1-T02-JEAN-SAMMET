@@ -8,18 +8,149 @@ Monitorar a qualidade do código e da execução das atividades técnicas do pro
 
 Foram as métricas PSM/CID definidas pelo grupo para execução das atividades das Sprint do projeto final da disciplina de qualidade.
 
-| Atividade                                | Métrica/Método                                           | Ferramenta             | Frequência              | Evidência no Git                  |
-|------------------------------------------|----------------------------------------------------------|-------------------------|--------------------------|-----------------------------------|
-| Tempo médio de resolução de issues       | Tempo entre criação e fechamento                         | GitHub Insights         | Ao fim de cada sprint     | -                                 |
-| Taxa de conclusão de tarefas             | (Issues fechadas / planejadas na sprint) * 100%          | GitHub Issues           | Ao fim de cada sprint     | /relatorios/sprintX.md            |
-| Lead Time por tarefa                     | Tempo total entre abertura e fechamento da issue         | GitHub Issues           | Ao fim de cada sprint     | /relatorios/sprintX.md            |
-| Estabilidade dos Requisitos              | Número de alterações em issues com label "requisito"     | GitHub Issues + Commits | A cada alteração de escopo| /docs/requisitos.md               |
-| Velocidade da Equipe                     | Soma dos story points concluídos por sprint              | GitHub Projects / Issues| Ao fim de cada sprint     | /relatorios/velocidade_sprintX.md |
+| Atividade| Métrica/Método| Ferramenta | Frequência | 
+|----------|---------------|------------|------------|
+| Burndown de atividades da equipe | Relação temporal de fechamento das issues ao longo da sprint | GitHub - Zenhub | Ao fim de cada sprint. |
+| Tempo médio de resolução de issues | Tempo entre criação e fechamento | GitHub - Zenhub | Ao fim de cada sprint. |
+| Taxa de conclusão de tarefas       | (Issues fechadas / planejadas na sprint) * 100%  | GitHub Issues | Ao fim de cada sprint     |
 
 ---
-## Evidências
+## SPRINT 1
 
-*PREENCHER APÓS A FINALIZAÇÃO DAS ATIVIDADES*
+<canvas id="burndownChart" width="600" height="300"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx = document.getElementById('burndownChart').getContext('2d');
+
+  const labels = ['25/06', '26/06', '27/06', '28/06', '29/06', '30/06', '01/07', '02/07'];
+
+  const realData = [7, 5, 5, 5, 5, 4, 3, 1];
+
+  // Gera linha ideal automaticamente
+  const idealData = [];
+  const totalTarefas = 9;
+  const dias = labels.length;
+  for (let i = 0; i < dias; i++) {
+    idealData.push((totalTarefas * (dias - 1 - i)) / (dias - 1));
+  }
+
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: 'Ideal',
+          data: idealData,
+          borderColor: 'rgba(150,150,150,0.5)',
+          borderDash: [5, 5],
+          fill: false,
+        },
+        {
+          label: 'Real',
+          data: realData,
+          borderColor: 'rgba(75,192,192,1)',
+          backgroundColor: 'rgba(75,192,192,0.2)',
+          fill: false,
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: { display: true, text: 'Burndown da Sprint 1' }
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          ticks: {
+            stepSize: 1
+          },
+          title: {
+            display: true,
+            text: 'Tarefas Restantes'
+          }
+        },
+        x: {
+          title: {
+            display: true,
+            text: 'Data'
+          }
+        }
+      }
+    }
+  });
+</script>
+
+---
+
+<canvas id="tempoResolucaoChart" width="600" height="300"></canvas>
+<canvas id="conclusaoSprintChart" width="600" height="300"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  // 🎯 Gráfico 1: Tempo médio de resolução (dias)
+  const ctxTempo = document.getElementById('tempoResolucaoChart').getContext('2d');
+  new Chart(ctxTempo, {
+    type: 'bar',
+    data: {
+      labels: ['Sprint 1'],
+      datasets: [{
+        label: 'Tempo médio de resolução (dias)',
+        data: [0.25],
+        backgroundColor: 'rgba(54, 162, 235, 0.6)',
+        borderColor: 'rgba(54, 162, 235, 1)',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        title: {
+          display: true,
+          text: 'Tempo Médio de Resolução das Issues'
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          max: 2,
+          ticks: { stepSize: 0.5 },
+          title: {
+            display: true,
+            text: 'Dias'
+          }
+        }
+      }
+    }
+  });
+
+  const ctxConclusao = document.getElementById('conclusaoSprintChart').getContext('2d');
+  new Chart(ctxConclusao, {
+    type: 'doughnut',
+    data: {
+      labels: ['Concluídas', 'Pendentes'],
+      datasets: [{
+        data: [7, 1], // 9 concluídas, 0 pendentes
+        backgroundColor: ['rgba(75, 192, 192, 0.7)', 'rgba(255, 99, 132, 0.3)'],
+        borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 99, 132, 1)'],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        title: {
+          display: true,
+          text: 'Taxa de Conclusão da Sprint 1'
+        }
+      }
+    }
+  });
+</script>
+
 
 ---
 

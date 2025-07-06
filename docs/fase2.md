@@ -34,6 +34,51 @@ A partir deste objetivo, foram derivados **dois objetivos específicos**, detalh
 
 ---
 
+## 📊 Visão Hierárquica GQM
+
+### 🎯 Objetivo Geral  
+**Analisar a interface do AgroMart para avaliar o uso da ferramenta com respeito à usabilidade**
+
+---
+
+### 🎯 Objetivo de Medição 1: Verificar a compreensão dos elementos visuais
+
+#### 🔹 Questão Q1  
+**Os usuários conseguem distinguir claramente os significados dos ícones e das cores?**  
+- M1.1: Taxa de Interpretação Correta de Ícones  
+- M1.2: Tempo de Hesitação por Ícone  
+- M1.3: Associação Correta de Cores  
+
+#### 🔹 Questão Q2  
+**As imagens e cores contribuem para a tomada de decisão?**  
+- M2.1: Percepção de Utilidade dos Elementos Visuais  
+- M2.2: Eficiência do Caminho da Tarefa  
+
+#### 🔹 Questão Q3  
+**Há confusão entre elementos visuais distintos ou sobreposição de funções?**  
+- M3.1: Taxa de Erro por Confusão Visual  
+- M3.2: Matriz de Confusão de Ícones  
+
+---
+
+### 🎯 Objetivo de Medição 2: Avaliar a clareza dos feedbacks do sistema
+
+#### 🔹 Questão Q4  
+**Os feedbacks são percebidos pelos usuários?**  
+- M4.1: Taxa de Percepção de Feedback  
+
+#### 🔹 Questão Q5  
+**Os sinais do sistema são compreendidos?**  
+- M5.1: Taxa de Compreensão das Mensagens  
+
+#### 🔹 Questão Q6  
+**Os feedbacks ajudam na navegabilidade?**  
+- M6.1: Tempo de Recuperação de Erro  
+- M6.2: Avaliação da Utilidade  
+
+
+---
+
 ## 🎯 Objetivo de Medição 1: Verificar a compreensão dos elementos visuais
 
 ### 🔹 Questão Q1

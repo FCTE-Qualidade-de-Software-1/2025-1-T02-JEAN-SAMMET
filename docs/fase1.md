@@ -26,7 +26,9 @@ Antes de começar, leia nosso [Guia de Contribuição](CONTRIBUTING.md) para ent
 
 ## 🧪 Características de Qualidade Avaliadas
 
-As principais **características de qualidade** analisadas são:
+Conforme solicitado pela especificação do projeto, esta avaliação utiliza o modelo de qualidade Q-RAPID como base. 
+
+O Q-RAPID propõe um conjunto de características para avaliar a qualidade de um produto de software. Dentre as características do modelo, e considerando os objetivos de negócio do AgroMart, nossa avaliação se concentrará em
 
 - 🎨 **Usabilidade** – com foco em UI/UX  
 - 🛡️ **Confiabilidade**  
@@ -36,9 +38,7 @@ As principais **características de qualidade** analisadas são:
 
 ### 🧠 Justificativa
 
-A escolha dessas características é **crucial para o sucesso** do AgroMart. Considerando o público-alvo com diferentes níveis de familiaridade com tecnologia, a **usabilidade** se destaca como um pilar central.  
-
-💡 A avaliação visa entender **se o sistema é fácil de usar**, **eficiente** nas tarefas e **confiável** para o público-alvo — garantindo que a tecnologia seja uma aliada e **não uma barreira**.
+A seleção destas características do modelo Q-RAPID é estratégica. A Usabilidade é o pilar central, pois a tecnologia deve ser uma aliada, e não uma barreira, para os agricultores. Uma interface de fácil aprendizado e operação (sub-características da Usabilidade) impacta diretamente a capacidade do agricultor de usar a plataforma com autonomia e confiança.
 
 ---
 

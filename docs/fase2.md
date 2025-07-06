@@ -1,6 +1,6 @@
 # 🌱 AgroMart - Especificar a avaliação
 
-## 📝 Introdução
+## 📘 Introdução
 
 Este documento detalha a **Etapa 2 – Seleção de Métricas** da abordagem Goal-Question-Metric (GQM) para a avaliação da qualidade do software **AgroMart**.  
 
@@ -36,7 +36,7 @@ A partir deste objetivo, foram derivados **dois objetivos específicos**, detalh
 
 ## 🎯 Objetivo de Medição 1: Verificar a compreensão dos elementos visuais
 
-### 🔹 Questão Q4
+### 🔹 Questão Q1
 **Os usuários conseguem distinguir claramente os significados dos ícones e das cores?**
 
 | ID   | Métrica                           | Detalhes                                                                                                                                         |
@@ -47,7 +47,7 @@ A partir deste objetivo, foram derivados **dois objetivos específicos**, detalh
 
 ---
 
-### 🔹 Questão Q5
+### 🔹 Questão Q2
 **As imagens e cores contribuem para a tomada de decisão?**
 
 | ID   | Métrica                         | Detalhes                                                                                                                                               |
@@ -57,7 +57,7 @@ A partir deste objetivo, foram derivados **dois objetivos específicos**, detalh
 
 ---
 
-### 🔹 Questão Q6
+### 🔹 Questão Q3
 **Há confusão entre elementos visuais distintos ou sobreposição de funções?**
 
 | ID   | Métrica                        | Detalhes                                                                                                                                  |
@@ -69,7 +69,7 @@ A partir deste objetivo, foram derivados **dois objetivos específicos**, detalh
 
 ## 🎯 Objetivo de Medição 2: Avaliar a clareza dos feedbacks do sistema
 
-### 🔹 Questão Q7
+### 🔹 Questão Q4
 **Os feedbacks são percebidos pelos usuários?**
 
 | ID   | Métrica                       | Detalhes                                                                                                                           |
@@ -78,7 +78,7 @@ A partir deste objetivo, foram derivados **dois objetivos específicos**, detalh
 
 ---
 
-### 🔹 Questão Q8
+### 🔹 Questão Q5
 **Os sinais do sistema são compreendidos?**
 
 | ID   | Métrica                           | Detalhes                                                                                                                       |
@@ -87,7 +87,7 @@ A partir deste objetivo, foram derivados **dois objetivos específicos**, detalh
 
 ---
 
-### 🔹 Questão Q9
+### 🔹 Questão Q6
 **Os feedbacks ajudam na navegabilidade?**
 
 | ID   | Métrica                      | Detalhes                                                                                                                                           |

@@ -54,7 +54,7 @@ A avaliação da interpretação dos ícones revelou **baixo desempenho geral** 
 
 Dos 12 ícones avaliados:
 - **8 foram classificados como críticos (🔴)**, por não terem sido interpretados corretamente. Isso inclui ícones com funções essenciais como *Histórico*, *Meus dados*, *Endereços*, *Sair* e *Carrinho*.
-- Apenas **3 ícones atingiram o objetivo esperado (✅)**, sugerindo que a representação visual desses foi mais intuitiva para o participante.
+- Apenas **4 ícones atingiram o objetivo esperado (✅)**, sugerindo que a representação visual desses foi mais intuitiva para o participante.
 - A presença de ícones mal interpretados em áreas centrais da navegação indica um risco direto à **eficiência e autonomia do usuário** no uso da plataforma.
 
 ---

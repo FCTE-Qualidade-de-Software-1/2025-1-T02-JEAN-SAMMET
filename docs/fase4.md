@@ -358,6 +358,76 @@ A avaliação revelou **problemas críticos de interpretação visual e percepç
 
 ---
 
+## 🛠️ Propostas de Melhoria Baseadas nas Métricas Avaliadas
+
+Com base nas evidências coletadas por meio da entrevista e avaliação de métricas, foram propostas as seguintes **ações de melhoria**, agrupadas por tipo de intervenção:
+
+---
+
+### 🎨 Interface e Usabilidade (Alto Impacto)
+
+🔹 **Redesenho dos Ícones Críticos e Inclusão de Rótulos Textuais**
+
+* Justificativa: 66% dos ícones não foram compreendidos corretamente (M1.1), impactando diretamente a autonomia do usuário.
+* Ação: Desenvolver novo conjunto de ícones baseados em bibliotecas reconhecidas (Material Icons, FontAwesome), com rótulos curtos visíveis (ex: "Meus Planos").
+* Execução: Protótipo de alta fidelidade criado no Figma e adicionado ao repositório.
+
+
+<div align = center >
+<p>Protótipo da página de Perfil</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/4XQSUk7Vbct20J9Up3vcpc/Untitled?node-id=13-24&embed-host=share" allowfullscreen></iframe>
+</div>
+
+🔹 **Refatoração da Tela de Perfil e Navegação Inicial**
+
+* Justificativa: A métrica M3.2 revelou múltiplos erros de navegação causados por sobreposição visual.
+* Ação: Reorganizar os elementos da tela de perfil em seções distintas, com espaçamento, ícones mais intuitivos e textos auxiliares.
+
+<div align = center >
+<p>Protótipo da página Home</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/4XQSUk7Vbct20J9Up3vcpc/Untitled?node-id=3-931&embed-host=share" allowfullscreen></iframe>
+</div>
+
+🔹 **Criação de Onboarding Guiado e Dicas Visuais**
+
+* Justificativa: Tempo de hesitação alto (M1.2) e nota baixa na utilidade visual (M2.1).
+* Ação: Desenvolver um tutorial interativo que apareça nas primeiras utilizações, explicando funções básicas com tooltips.
+
+---
+
+### 📣 Comunicação de Feedback (Alto Impacto)
+
+🔸 **Melhoria nos Feedbacks de Ação Crítica (ex: Finalizar Compra)**
+
+* Justificativa: Usuário não percebeu nem compreendeu o feedback ao finalizar a compra (M4.1 e M5.1).
+* Ação: Criar modal de confirmação com animação, mensagem clara (“Compra finalizada com sucesso!”) e botão de retorno visível.
+
+<div align = center >
+<p>Protótipo da página de Feedback</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/4XQSUk7Vbct20J9Up3vcpc/Untitled?node-id=3-899&embed-host=share" allowfullscreen></iframe>
+</div>
+
+🔸 **Melhoria nas Mensagens de Erro**
+
+* Justificativa: Embora útil, a mensagem de erro foi considerada pouco clara e exigiu tempo de recuperação (M6.1/M6.2).
+* Ação: Reformular os textos das mensagens, adicionar sugestões automáticas (ex: “Insira um CEP válido”) e destacar o campo com borda vermelha e ícone de atenção.
+
+---
+
+
+
+## ✅ Ação Executada
+
+**Ação escolhida**: Desenvolvimento de um **protótipo de alta fidelidade com redesenho da tela de perfil e melhoria dos ícones principais**, incorporando rótulos e feedbacks visuais.
+
+**Motivação**: A escolha foi baseada na **gravidade dos erros visuais detectados (M1.1, M3.1/M3.2)** e na necessidade urgente de **melhorar a compreensão dos ícones e caminhos de navegação**. Um protótipo permite validar rapidamente as mudanças com os usuários antes da implementação definitiva.
+
+**Ferramenta utilizada**: Figma
+
+**Link para o protótipo**: [Protótipo Figma - Redesign AgroMart](https://www.figma.com/design/4XQSUk7Vbct20J9Up3vcpc/Untitled?node-id=3-899&t=CL82LURE3dqhNNke-0)
+
+
+
 ## 👥 Tabela de Contribuição
 
 | 🎓 Matrícula | 🙋 Nome completo | 📊 Contribuição (%) |
@@ -376,3 +446,4 @@ A avaliação revelou **problemas críticos de interpretação visual e percepç
 | 📌 Versão | 📆 Data | ✍️ Descrição | 👤 Autor | 🔍 Revisor |
 |:--------:|:-------|:-------------|:--------|:-----------:|
 |`1.0`| 26/06/2025| Criação da documentação |[Gabriel Lima](https://github.com/gabriel-lima258)| [Guilherme Storch](https://github.com/storch7) |
+|`1.1`| 08/07/2025| Adição do Protótipo do Figma |[Milena Rocha](https://github.com/milenafrocha)| [Guilherme Storch](https://github.com/storch7) |

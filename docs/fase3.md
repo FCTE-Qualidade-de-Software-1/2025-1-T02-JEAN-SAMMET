@@ -21,6 +21,37 @@ Um plano bem estruturado assegura que a execução seja consistente, reprodutív
 
 ---
 
+## 🧩 Critérios de Julgamento e Níveis de Pontuação
+
+A tabela abaixo apresenta, **para cada métrica**, a escala utilizada, os níveis de pontuação e o critério de aceitação:
+
+---
+
+### 🔹 Objetivo de Medição 1 – Compreensão dos Elementos Visuais
+
+| ID   | Métrica                            | Escala         | Níveis de Pontuação                                  | Critério de Aceitação                                        |
+|-------|------------------------------------|-----------------|-----------------------------------------------------|--------------------------------------------------------------|
+| M1.1 | Taxa de Interpretação Correta      | Percentual (%)  | 0–69 = Ruim<br>70–89 = Regular<br>≥90 = Bom         | ≥90% de acertos em ícones críticos                          |
+| M1.2 | Tempo de Hesitação por Ícone       | Segundos (s)    | >10 = Ruim<br>5–10 = Regular<br><5 = Bom            | Média inferior a 5 segundos                                 |
+| M1.3 | Associação Correta de Cores        | Binário         | 0 = Incorreto<br>1 = Correto                        | 100% de associações corretas                                |
+| M2.1 | Percepção de Utilidade Visual      | Likert (1–5)    | ≤2 = Ruim<br>3 = Regular<br>≥4 = Bom                | Média superior a 4.0                                         |
+| M2.2 | Eficiência do Caminho da Tarefa    | Razão           | >1.5 = Ruim<br>1.2–1.5 = Regular<br>≤1.2 = Bom      | Razão menor ou igual a 1.2                                   |
+| M3.1 | Taxa de Erro por Confusão Visual   | Ocorrências     | ≥3 = Ruim<br>2 = Regular<br>≤1 = Bom                | No máximo 1 erro por tarefa crítica                         |
+| M3.2 | Matriz de Confusão de Ícones       | Frequência      | Pares com alta frequência (>30%) = Ruim            | Nenhum par deve ser fonte primária de confusão              |
+
+---
+
+### 🔹 Objetivo de Medição 2 – Clareza dos Feedbacks
+
+| ID   | Métrica                            | Escala         | Níveis de Pontuação                                  | Critério de Aceitação                                        |
+|-------|------------------------------------|-----------------|-----------------------------------------------------|--------------------------------------------------------------|
+| M4.1 | Taxa de Percepção de Feedback      | Percentual (%)  | 0–79 = Ruim<br>80–94 = Regular<br>≥95 = Bom         | ≥95% identificam feedback                                   |
+| M5.1 | Taxa de Compreensão das Mensagens  | Percentual (%)  | 0–79 = Ruim<br>80–89 = Regular<br>≥90 = Bom         | ≥90% de compreensão correta                                 |
+| M6.1 | Tempo de Recuperação de Erro       | Segundos (s)    | >15 = Ruim<br>6–15 = Regular<br>≤5 = Bom            | Tempo médio baixo indica feedback eficaz                   |
+| M6.2 | Avaliação da Utilidade do Feedback | Likert (1–5)    | ≤2 = Ruim<br>3 = Regular<br>≥4 = Bom                | Média superior a 4.2                                        |
+
+---
+
 ## 🛠 Instrumentos de Coleta de Dados
 
 - **Formulários Digitais ou Impressos:** Questionários pós-tarefa e pós-teste

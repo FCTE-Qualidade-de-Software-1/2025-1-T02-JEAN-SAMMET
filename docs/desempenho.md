@@ -143,6 +143,134 @@ Foram as métricas PSM/CID definidas pelo grupo para execução das atividades d
 
 ---
 
+## SPRINT 2
+
+<!-- Gráfico de Burndown no topo -->
+<canvas id="burndownChart2" width="600" height="300"></canvas>
+
+<!-- Container para os dois gráficos lado a lado -->
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 40px;">
+  <div style="flex: 1;">
+    <canvas id="tempoResolucaoChart2" width="400" height="300"></canvas>
+  </div>
+  <div style="flex: 0 0 320px; display: flex; justify-content: center;">
+    <canvas id="conclusaoSprintChart2" width="300" height="300"></canvas>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  // Gráfico Burndown da Sprint 2
+  const ctxBurndown2 = document.getElementById('burndownChart2').getContext('2d');
+  const labelsSprint2 = ['02/07', '03/07', '04/07', '05/07', '06/07', '07/07', '08/07'];
+  const realDataSprint2 = [7, 6, 5, 4, 3, 2, 0];
+  const idealDataSprint2 = [];
+  const totalTarefas2 = 7;
+  const dias2 = labelsSprint2.length;
+  for (let i = 0; i < dias2; i++) {
+    idealDataSprint2.push((totalTarefas2 * (dias2 - 1 - i)) / (dias2 - 1));
+  }
+  new Chart(ctxBurndown2, {
+    type: 'line',
+    data: {
+      labels: labelsSprint2,
+      datasets: [
+        {
+          label: 'Ideal',
+          data: idealDataSprint2,
+          borderColor: 'rgba(150,150,150,0.5)',
+          borderDash: [5, 5],
+          fill: false,
+        },
+        {
+          label: 'Real',
+          data: realDataSprint2,
+          borderColor: 'rgba(75,192,192,1)',
+          backgroundColor: 'rgba(75,192,192,0.2)',
+          fill: false,
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top' },
+        title: { display: true, text: 'Burndown da Sprint 2' }
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          ticks: { stepSize: 1 },
+          title: { display: true, text: 'Tarefas Restantes' }
+        },
+        x: {
+          title: { display: true, text: 'Data' }
+        }
+      }
+    }
+  });
+
+  // Gráfico Tempo médio de resolução
+  const ctxTempo2 = document.getElementById('tempoResolucaoChart2').getContext('2d');
+  new Chart(ctxTempo2, {
+    type: 'bar',
+    data: {
+      labels: ['Sprint 2'],
+      datasets: [{
+        label: 'Tempo médio de resolução (dias)',
+        data: [5],
+        backgroundColor: 'rgba(54, 162, 235, 0.6)',
+        borderColor: 'rgba(54, 162, 235, 1)',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        title: {
+          display: true,
+          text: 'Tempo Médio de Resolução das Issues - Sprint 2'
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          suggestedMax: 6,
+          ticks: { stepSize: 1 },
+          title: { display: true, text: 'Dias' }
+        }
+      }
+    }
+  });
+
+  // Gráfico Doughnut - Conclusão Sprint 2
+  const ctxConclusao2 = document.getElementById('conclusaoSprintChart2').getContext('2d');
+  new Chart(ctxConclusao2, {
+    type: 'doughnut',
+    data: {
+      labels: ['Concluídas', 'Pendentes'],
+      datasets: [{
+        data: [7, 0],
+        backgroundColor: ['rgba(75, 192, 192, 0.7)', 'rgba(255, 99, 132, 0.3)'],
+        borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 99, 132, 1)'],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        title: {
+          display: true,
+          text: 'Taxa de Conclusão da Sprint 2'
+        }
+      }
+    }
+  });
+</script>
+
+
+---
+
 ## 👥 Tabela de Contribuição
 
 | 🎓 Matrícula | 🙋 Nome completo | 📊 Contribuição (%) |

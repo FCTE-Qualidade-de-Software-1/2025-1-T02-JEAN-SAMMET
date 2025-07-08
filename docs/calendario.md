@@ -18,12 +18,12 @@ Controlar se as entregas estão ocorrendo dentro do prazo estabelecido.
 | #9    | \[Etapa 2] Selecionar Métricas usando a abordagem GQM                                 | Escolha das métricas mais adequadas com base nos objetivos definidos, seguindo a metodologia GQM.           | 02/06/25                   | 02/06/25             |
 |---|---|---|---|---|
 | #10   | \[Etapa 2] Definir os níveis de pontuação e critérios de julgamento para cada métrica | Estabelecimento dos níveis de pontuação e critérios de aceitação para cada métrica selecionada.             | 02/06/25                   | 03/06/25             |
-| #12   | \[Etapa 3] Elaborar um plano de avaliação                                             | Estruturação do plano contendo cronograma, responsáveis, instrumentos e objetivos da avaliação.             | 02/07/25                   | 02/07/25             |
-| #13   | \[Etapa 4] Coleta de dados                                                            | Aplicação do plano de avaliação com foco na coleta de dados por meio de observações, testes ou ferramentas. | 04/07/25                   | 05/07/25                 |
-| #14   | \[Etapa 4] Executar a avaliação                                                       | Execução da análise com base nos dados coletados e nas métricas estabelecidas.                              | 05/06/25                   | 06/07/25                 |
-| #15   | \[Etapa 4] Ação de melhoria                                                           | Planejamento de intervenções e melhorias com base nos resultados obtidos durante a avaliação.               | 06/07/25                   | 07/07/25                 |
-| #16   | \[Etapa 4] Executar ação de melhoria                                                  | Implementação das ações de melhoria propostas e acompanhamento dos impactos.                                | 07/07/25                   | 08/07/25                 |
-| #17   | \[Etapa 4] Organização final do pages                                                 | Finalização e revisão da estrutura do GitHub Pages com base nas entregas realizadas.                        | 08/07/25                   | 08/07/25                 |
+| #12   | \[Etapa 3] Elaborar um plano de avaliação                                             | Estruturação do plano contendo cronograma, responsáveis, instrumentos e objetivos da avaliação.             | 02/07/25                   | 03/07/25             |
+| #13   | \[Etapa 4] Coleta de dados                                                            | Aplicação do plano de avaliação com foco na coleta de dados por meio de observações, testes ou ferramentas. | 04/07/25                   | DATA                 |
+| #14   | \[Etapa 4] Executar a avaliação                                                       | Execução da análise com base nos dados coletados e nas métricas estabelecidas.                              | 05/06/25                   | DATA                 |
+| #15   | \[Etapa 4] Ação de melhoria                                                           | Planejamento de intervenções e melhorias com base nos resultados obtidos durante a avaliação.               | 06/07/25                   | DATA                 |
+| #16   | \[Etapa 4] Executar ação de melhoria                                                  | Implementação das ações de melhoria propostas e acompanhamento dos impactos.                                | 07/07/25                   | DATA                 |
+| #17   | \[Etapa 4] Organização final do pages                                                 | Finalização e revisão da estrutura do GitHub Pages com base nas entregas realizadas.                        | 08/07/25                   | DATA                 |
 
 
 ---

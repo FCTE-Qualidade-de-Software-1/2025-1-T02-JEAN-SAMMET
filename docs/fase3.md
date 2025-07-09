@@ -19,18 +19,20 @@ Testes de usabilidade moderados, com observação direta dos participantes.
 
 **Participantes:**  
 Indivíduo representado:
+
 - Co-Agricultor
 
 **Cenários de Tarefa:**
+
 1. Agricultor cadastra produto.
 2. Agricultor confirma pedido.
 3. Consumidor monta cesta de compras.
 
 **Ferramentas:**
+
 - Cronômetro
 - Gravação de tela (com consentimento)
 - Formulários de observação
-- Questionários pós-testes
 
 ---
 
@@ -46,18 +48,24 @@ Indivíduo representado:
 
 ## 🧮 Procedimentos de Execução
 
-1. **Briefing inicial ao participante**
-   - Apresentar o objetivo do estudo
-   - Solicitar consentimento para gravação
-2. **Execução das tarefas**
-   - Cenários pré-definidos (cadastrar produto, confirmar pedido, montar cesta)
-   - Observador cronometra e registra respostas
-3. **Aplicação de questionários pós-tarefa**
-   - Coleta de percepções e avaliações Likert
-4. **Encerramento**
-   - Agradecimento e esclarecimento de dúvidas
+- **Briefing inicial ao participante**
+      - Apresentar o objetivo do estudo
+      - Solicitar consentimento para gravação
+
+- **Execução das tarefas**
+      - Cenários pré-definidos (cadastrar produto, confirmar pedido, montar cesta)
+      - Observador cronometra e registra respostas
+
+- **Aplicação de questionários pós-tarefa**
+      - Coleta de percepções e avaliações Likert
+
+- **Encerramento**
+      - Agradecimento e esclarecimento de dúvidas
 
 ---
+## Artefatos para Levantamento
+
+1. [Arquivo base para avaliação](https://docs.google.com/document/d/1T8fjI8wT1kcREKsVkXJWOdhCLuSUSi5ZU_KNDn8WP4Q/edit?usp=sharing)
 
 ## 👥 Tabela de Contribuição
 
